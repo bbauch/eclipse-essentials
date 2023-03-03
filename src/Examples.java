@@ -6,7 +6,7 @@ public class Examples {
 	}
 	
 	public void example() {
-		String str = "Hello World!";
+		String str = "Hello World! Take 2";
 	}
 
 }
